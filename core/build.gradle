@@ -1,0 +1,7 @@
+version = '1.0-SNAPSHOT'
+
+dependencies {
+    compile group: 'com.hazelcast', name: 'hazelcast', version: '3.4'
+    compile group: 'com.hazelcast', name: 'hazelcast-client', version: '3.4'
+}
+
