@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b488d1c-5d9f-4f15-8926-33fb04157778" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/core.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/core.iws" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hazelgrid.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/hazelgrid.ipr" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/hazelgrid.iws" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sandbox/sandbox.iml" afterPath="" />
     </list>
     <list id="0a578deb-e109-437c-9d0d-823c8b2deaf5" name="Ignore" comment="" />
     <ignored path="hazelgrid.iws" />
@@ -669,7 +664,7 @@
       <workItem from="1423385524979" duration="2967000" />
       <workItem from="1423453336716" duration="138000" />
       <workItem from="1424497821915" duration="1053000" />
-      <workItem from="1424498886976" duration="598000" />
+      <workItem from="1424498886976" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="deleting ignored files..">
       <created>1424498419328</created>
@@ -689,11 +684,17 @@
       <option name="project" value="LOCAL" />
       <updated>1424499304986</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="remove idea files..">
+      <created>1424499490822</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1424499490822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25342000" />
+    <option name="totallyTimeSpent" value="25366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -747,7 +748,8 @@
     <MESSAGE value="deleting ignored files.." />
     <MESSAGE value="adding git ignore files..ignore linux backup files.." />
     <MESSAGE value="ignore idea files.." />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore idea files.." />
+    <MESSAGE value="remove idea files.." />
+    <option name="LAST_COMMIT_MESSAGE" value="remove idea files.." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
