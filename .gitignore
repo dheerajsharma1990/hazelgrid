@@ -1,2 +1,7 @@
 #backup file created by linux
 *.*~
+
+#idea files
+*.iml
+*.ipr
+*.iws
